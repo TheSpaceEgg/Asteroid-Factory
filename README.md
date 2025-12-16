@@ -4,6 +4,20 @@ This repository hosts the compiled binary releases for **Asteroid Factory**, a c
 
 > **Note:** This repository contains executable releases only. No source code is hosted here.
 
+## 📚 Citation
+
+If you use Asteroid Factory in your research, please cite it as:
+
+```bibtex
+@software{AsteroidFactory2025,
+  author = {Hickmott, William AND Hoettges, Kai},
+  title = {Asteroid Factory: A cross-platform tool for procedural asteroid generation and geophysical simulation},
+  version = {1.0-pre-release},
+  year = {2025},
+  url = {[https://github.com/TheSpaceEgg/Asteroid-Factory](https://github.com/TheSpaceEgg/Asteroid-Factory)}
+}
+```
+
 ## 📦 Downloads
 
 Please download the appropriate version for your operating system from the **[Releases](../../releases)** page.
