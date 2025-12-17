@@ -12,6 +12,7 @@ version: 1.0-pre-release
 date-released: 2025-12-16
 url: "https://github.com/TheSpaceEgg/Asteroid_Factory"
 license: MIT
+doi: 10.5281/zenodo.17957778
 keywords:
   - asteroid
   - space-science
