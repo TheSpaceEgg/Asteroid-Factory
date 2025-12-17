@@ -14,7 +14,8 @@ If you use Asteroid Factory in your research, please cite it as:
   title = {Asteroid Factory: A cross-platform tool for procedural asteroid generation and geophysical simulation},
   version = {1.0-pre-release},
   year = {2025},
-  url = {[https://github.com/TheSpaceEgg/Asteroid-Factory](https://github.com/TheSpaceEgg/Asteroid-Factory)}
+  url = {https://github.com/TheSpaceEgg/Asteroid-Factory},
+  doi = {10.5281/zenodo.17957778}
 }
 ```
 
