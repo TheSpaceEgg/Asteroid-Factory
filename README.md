@@ -15,7 +15,7 @@ license = {MIT},
 month = dec,
 title = {{Asteroid Factory - A cross-platform tool for procedural asteroid generation and geophysical simulation}},
 url = {https://github.com/TheSpaceEgg/Asteroid_Factory},
-version = {1.1-pre-release},
+version = {1.2-pre-release},
 year = {2025}
 }
 ```
